@@ -1,0 +1,1 @@
+Sum of calibration values: 52840
